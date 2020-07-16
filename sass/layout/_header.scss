@@ -1,0 +1,41 @@
+.header{ 
+        color: $colorletraheader;  
+}
+
+// titulo
+.header__fondotitulo--aspecto{
+    text-align: $headertitulotextoalineacion;
+    background-color: $colorfondoheader;
+    width: $headertituloancho;
+    height: $headertituloalto;
+    margin: $headertitulomargen;
+}
+
+.header__titulo--aspecto{
+    margin: $fondotituloaspectomargen;
+    padding: $fondotituloaspectopadding;
+    font-style: $fondotituloaspectofuenteestilo;
+    font-family: $fondotituloaspectofuentefamily;
+}
+
+
+
+// barras de color
+
+.header__lineas--fondo{
+    background-color: $colorfondoheader;
+    width: $headerbarraancho;
+    height: $headerbarraalto;
+}
+
+.header___linearosa--aspecto{
+    
+    height: $headerbarrarosaalto;
+    background-color: $linearosaheader;
+}
+
+.header__lineaceleste--aspecto{
+    height: $headerbarracelestealto;
+    background-color: $lineacelesteheader;
+}
+

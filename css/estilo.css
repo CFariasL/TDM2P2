@@ -1,0 +1,117 @@
+.header__nav--aspecto {
+  margin: 20px 20px 0px 20px;
+  display: flex;
+  height: 90px; }
+  .header__nav--aspecto .header__nav__contenedorlogo--position {
+    position: relative;
+    width: 30px;
+    height: 60px;
+    display: block;
+    text-align: left; }
+    .header__nav--aspecto .header__nav__contenedorlogo--position .header__nav__logosegundar--position {
+      position: absolute;
+      top: 50%;
+      left: 105%; }
+  .header__nav--aspecto .header__nav__contenedorlinks--display {
+    margin: 20px 0px 0px 80px;
+    display: flex; }
+    .header__nav--aspecto .header__nav__contenedorlinks--display .heaer__nav__links--aspecto {
+      padding: 0px 35px;
+      font-family: "Satisfy";
+      font-size: 20px;
+      font-weight: 600;
+      text-decoration: none;
+      color: black; }
+  .header__nav--aspecto .header__nav__contenedorlogin--display {
+    margin: 20px 0px 0px 80px; }
+    .header__nav--aspecto .header__nav__contenedorlogin--display .header__nav__login--aspecto {
+      width: 150px;
+      padding: 0px 40px;
+      font-size: 20px;
+      text-decoration: none;
+      color: black; }
+
+.main__imagen--aspecto {
+  width: 100%; }
+
+.main__imagenuperiorinferior--aspecto {
+  width: 30%; }
+
+.main__imagenestexto--aspecto {
+  width: 100%; }
+
+.header {
+  color: black; }
+
+.header__fondotitulo--aspecto {
+  text-align: center;
+  background-color: #EFE3AF;
+  width: 100%;
+  height: 60px;
+  margin: 0; }
+
+.header__titulo--aspecto {
+  margin: 0;
+  padding: 10px 0px 0px 0px;
+  font-style: italic;
+  font-family: "Roboto", sans-serif; }
+
+.header__lineas--fondo {
+  background-color: #EFE3AF;
+  width: 100%;
+  height: 70px; }
+
+.header___linearosa--aspecto {
+  height: 50px;
+  background-color: #FEAECB; }
+
+.header__lineaceleste--aspecto {
+  height: 20px;
+  background-color: #99D8E9; }
+
+.main__barraceleste--aspecto {
+  height: 25px;
+  background-color: #99D8E9; }
+
+.main__textoshort--negrita {
+  font-weight: 900; }
+
+.main__filaprincipal--aspecto {
+  margin: 20px 0px;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap; }
+
+.main__fila--aspecto {
+  margin: 20px 0px;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap; }
+
+.main__filashortsarriba--aspecto {
+  margin: 20px 0px 35px 0px;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap; }
+
+.main__filashortabajo--aspecto {
+  margin: 50px 0px 20px 0px;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap; }
+
+.main__columna--aspecto {
+  display: block;
+  flex: 45%;
+  max-width: 45%;
+  padding: 0px 0px; }
+
+.main__columnasimagentextoimagen--aspecto {
+  width: 30%;
+  text-align: center; }
+
+.main__barracelesteultima--aspecto {
+  background-color: #99D8E9;
+  height: 35px; }
+
+/*# sourceMappingURL=estilo.css.map */

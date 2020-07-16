@@ -1,0 +1,100 @@
+//general
+$lineacelesteheader: #99D8E9;
+
+// Header
+$colorfondoheader: #EFE3AF;
+$colorletraheader: black;
+;
+
+// Titulo header
+$headertitulotextoalineacion: center;
+$headertituloancho: 100%;
+$headertituloalto: 60px;
+$headertitulomargen: 0;
+
+// header titulo aspecto
+$fondotituloaspectomargen: 0;
+$fondotituloaspectopadding: 10px 0px 0px 0px;
+$fondotituloaspectofuenteestilo: italic;
+$fondotituloaspectofuentefamily:  'Roboto', sans-serif;
+
+// Nav
+$navmargen: 20px 20px 0px 20px;
+$navdisplay: flex;
+$navalto: 90px;
+
+// logo
+$logocontenedorpsition: relative;
+$logocontenedorancho: 30px;
+$logocontenedoralto: 60px;
+$logocontenedordisplay: block;
+$logocontenedortextalign: left;
+
+// logo segunda R
+$logosegundarposition: absolute;
+$logosegundartop: 50%;
+$logosegundarleft: 105%;
+
+// Nav contenedor Link
+$navcontenedorlinkmargen: 20px 0px 0px 80px;
+$navcontenedorlinkdisplay: flex;
+
+// nav link aspecto
+$navlinkaspectopadding:  0px 35px;
+$navlinkaspectofontfamily: 'Satisfy';
+$navlinkaspectofontsize: 20px;
+$navlinkaspectofontwight: 600;
+$navlinkaspectotextdecoration: none;
+$navlinkaspectocolor: black;
+
+// login contenedor
+$logincontenedormargen: 20px 0px 0px 80px;
+
+// login
+$loginaspectopadding: 0px 40px;
+$loginaspectofontsize: 20px;
+$loginaspectotextdecoration: none;
+$loginaspectocolor: black;
+
+// header contenedor baara de Color
+$headerbarraancho: 100%;
+$headerbarraalto: 70px;
+
+// header barra Rosa
+$headerbarrarosaalto: 50px;
+$linearosaheader: #FEAECB;
+
+// header barra Celeste
+$headerbarracelestealto: 20px;
+
+//principal
+// Barra celeste bajo el Carrusel
+$mainbarracelestealtura: 25px;
+
+// fila
+$main__filaprincipalmargin: 20px 0px;
+$mainfilajustifycontent: center;
+$mainfiladisplay: flex;
+$mainfilaflexwrap: wrap;
+
+// filas Short
+$mainfilashortsarribamargin: 20px 0px 35px 0px;
+$mainfilashortabajomargin: 50px 0px 20px 0px;
+
+// columna
+$maincolumnadisplay: block;
+$maincolumnaflex: 45%;
+$maincolumnawidth: 45%;
+$maincolumnapadding: 0px 0px;
+
+// imagenes
+$mainimagenwidth: 100%;
+$mainimagenuperiorinferiorwidth: 30%;
+$mainimagenestextowidth: 100%;
+$maincolumnasimagentextoimagenwidth: 30%;
+$maincolumnasimagentextoimagentextalign: center;
+
+// Barra Celeste ultima
+$mainbarracelesteultimaaltura: 35px;
+
+

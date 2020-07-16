@@ -1,0 +1,61 @@
+// nav
+
+.header__nav--aspecto{
+    margin: $navmargen;
+    display: $navdisplay;
+    height: $navalto;
+
+
+// logo
+
+.header__nav__contenedorlogo--position{
+    position: $logocontenedorpsition;
+    width: $logocontenedorancho;
+    height: $logocontenedoralto;
+    display: $logocontenedordisplay;
+    text-align: $logocontenedortextalign;
+
+
+.header__nav__logosegundar--position{
+    position: $logosegundarposition;
+    top: $logosegundartop;
+    left: $logosegundarleft;
+}
+}
+
+// links
+
+.header__nav__contenedorlinks--display{
+
+    margin: $navcontenedorlinkmargen;
+    display: $navcontenedorlinkdisplay;
+
+
+.heaer__nav__links--aspecto{
+    padding: $navlinkaspectopadding;
+    font-family: $navlinkaspectofontfamily;
+    font-size: $navlinkaspectofontsize;
+    font-weight: $navlinkaspectofontwight;
+    text-decoration: $navlinkaspectotextdecoration;
+    color: $navlinkaspectocolor;
+}
+}
+
+// login
+
+.header__nav__contenedorlogin--display{
+    margin: $logincontenedormargen;
+
+
+
+
+.header__nav__login--aspecto{
+    width: 150px;
+    padding: $loginaspectopadding;
+    font-size: $loginaspectofontsize;
+    text-decoration: $loginaspectotextdecoration;
+    color: $loginaspectocolor;
+
+}
+}
+}

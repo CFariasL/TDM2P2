@@ -1,0 +1,62 @@
+// Barra celeste bajo el carrusel
+.main__barraceleste--aspecto{
+    height: $mainbarracelestealtura;
+    background-color: $lineacelesteheader;
+}
+
+// texto
+.main__textoshort--negrita{
+font-weight: 900;
+
+}
+
+// filas
+.main__filaprincipal--aspecto{
+    margin: $main__filaprincipalmargin;
+    justify-content: $mainfilajustifycontent;
+    display: $mainfiladisplay;
+    flex-wrap: $mainfilaflexwrap;
+}
+
+.main__fila--aspecto{
+    margin: $main__filaprincipalmargin;
+    justify-content: $mainfilajustifycontent;
+    display: $mainfiladisplay;
+    flex-wrap: $mainfilaflexwrap;
+}
+
+.main__filashortsarriba--aspecto{
+    margin: $mainfilashortsarribamargin;
+    justify-content: $mainfilajustifycontent;
+    display: $mainfiladisplay;
+    flex-wrap: $mainfilaflexwrap;
+}
+
+.main__filashortabajo--aspecto{
+    margin: $mainfilashortabajomargin;
+    justify-content: $mainfilajustifycontent;
+    display: $mainfiladisplay;
+    flex-wrap: $mainfilaflexwrap;
+}
+
+//  columnas
+.main__columna--aspecto{
+    display: $maincolumnadisplay;
+    flex: $maincolumnaflex;
+    max-width: $maincolumnawidth;
+    padding: $maincolumnapadding; 
+ }
+
+.main__columnasimagentextoimagen--aspecto{
+    width: $maincolumnasimagentextoimagenwidth;
+    text-align: $maincolumnasimagentextoimagentextalign;
+}
+
+
+
+// Barra Celeste de Abajo
+ 
+ .main__barracelesteultima--aspecto{
+     background-color: $lineacelesteheader ;
+     height: $mainbarracelesteultimaaltura;
+ }
